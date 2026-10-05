@@ -1,0 +1,48 @@
+.section {
+  max-width: 1280px;
+  margin: auto;
+  padding: 100px 24px;
+}
+
+.section-title {
+  font-family: "Playfair Display", serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #111111;
+}
+
+.section-subtitle {
+  color: #666;
+  margin-top: 16px;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.gold-text {
+  color: #D4AF37;
+}
+
+.primary-btn {
+  background: #111111;
+  color: white;
+  padding: 14px 30px;
+  border-radius: 12px;
+  transition: .3s;
+}
+
+.primary-btn:hover {
+  background: #D4AF37;
+  color: #111111;
+}
+
+.secondary-btn {
+  border: 2px solid #111111;
+  padding: 14px 30px;
+  border-radius: 12px;
+  transition: .3s;
+}
+
+.secondary-btn:hover {
+  background: #111111;
+  color: white;
+}
