@@ -6,7 +6,7 @@ import Categories from "../components/Categories/Categories";
 import Portfolio from "../components/Portfolio/Portfolio";
 import WhyChooseUs from "../components/WhyChooseUs/WhyChooseUs";
 import Services from "../components/Services/Services";
-import Testimonials from "../components/Testimonials/Testimonials";
+import Testimonials from "../components/testimonials/testimonials";
 import BookingBanner from "../components/BookingBanner/BookingBanner";
 import ContactSection from "../components/ContactSection/ContactSection";
 import Footer from "../components/Footer/Footer";
